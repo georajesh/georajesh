@@ -27,6 +27,4 @@ if you like what i do, maybe consider buying me a coffee/tea 👉👈
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
 </span>
 
-          
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="georajesh" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/georajesh?trk=profile-badge">Rajesh D.</a></div>
               
