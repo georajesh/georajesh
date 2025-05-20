@@ -6,9 +6,11 @@
 
 # Hi there <img src="wave.gif" width="30px">
 
-My name is <b>Rajesh Dulal</b>, a Fleming College graduate in GIS Application, specialized in Spatial Data, WebGIS and Automation. Previously, I obtained my B.Eng. in Civil Engineering from Purbanchal University.
+My name is <b>Rajesh Dulal</b>, a data and GIS enthusiast passionate about using analytics and geospatial technology to solve real-world problems. With a background in Data Analytics and GIS Applications, I combine technical skills in Python, SQL, Power BI, Excel, and geospatial tools like ArcGIS Pro, QGIS, and FME to build solutions that drive insights and support decision-making. I enjoy working across disciplines, whether it’s transforming raw datasets into visual dashboards or automating spatial workflows for greater efficiency.
 
-💻 My interests lie within the field of GeoAI, Machine Learning & Spatial Science.
+I’m especially interested in public sector, environmental, and urban planning projects, and I strive to create work that’s both technically sound and socially impactful.
+
+💻 My interests lie within the field of GeoAI, Machine Learning & Spatial Data Science.
 
 🎞️ Outside my academic and professional pursuits, I am passionate about photography.
 
