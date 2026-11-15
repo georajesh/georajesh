@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Rajesh Dulal (GeoRajesh), GIS Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b2b2c"/>
+      <stop offset="1" stop-color="#121212"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffdb70"/>
+      <stop offset="1" stop-color="#ceb15a"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1200" height="300" rx="18"/></clipPath>
+    <style>
+      .contour { fill: none; stroke: #ffdb70; stroke-width: 1.4; opacity: .16; }
+      .contour.strong { opacity: .32; }
+      .name { font: 700 58px 'Poppins', 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; }
+      .handle { font: 600 20px 'Poppins', 'Segoe UI', Helvetica, Arial, sans-serif; fill: url(#gold); letter-spacing: 6px; }
+      .tag { font: 400 24px 'Poppins', 'Segoe UI', Helvetica, Arial, sans-serif; fill: #d6d6d6; opacity: 0; animation: cycle 12s infinite; }
+      .t2 { animation-delay: 4s; }
+      .t3 { animation-delay: 8s; }
+      @keyframes cycle {
+        0%   { opacity: 0; transform: translateY(8px); }
+        4%   { opacity: 1; transform: translateY(0); }
+        29%  { opacity: 1; transform: translateY(0); }
+        33%  { opacity: 0; transform: translateY(-8px); }
+        100% { opacity: 0; }
+      }
+      .pin { animation: pulse 2.4s ease-in-out infinite; transform-origin: 1010px 150px; }
+      @keyframes pulse { 0%,100% { transform: scale(1); opacity: .9; } 50% { transform: scale(1.35); opacity: .35; } }
+      @media (prefers-reduced-motion: reduce) {
+        .tag, .pin { animation: none; }
+        .t1 { opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+
+    <!-- topographic contour motif (right side) -->
+    <g transform="translate(1010 150)">
+      <path class="contour" d="M-300,10 C-260,-150 -60,-200 60,-170 C200,-135 290,-40 270,60 C250,170 90,220 -40,200 C-180,180 -330,140 -300,10 Z"/>
+      <path class="contour" d="M-240,8 C-205,-120 -50,-160 50,-136 C165,-108 235,-30 218,50 C200,138 75,176 -32,160 C-145,144 -265,112 -240,8 Z"/>
+      <path class="contour strong" d="M-180,6 C-152,-90 -38,-120 38,-102 C125,-80 178,-22 165,38 C150,104 56,132 -24,120 C-110,108 -200,84 -180,6 Z"/>
+      <path class="contour" d="M-122,4 C-102,-60 -26,-80 26,-68 C84,-54 120,-15 110,25 C100,70 38,88 -16,80 C-74,72 -136,56 -122,4 Z"/>
+      <path class="contour strong" d="M-64,2 C-52,-30 -14,-40 14,-34 C44,-27 62,-8 57,13 C52,36 20,45 -8,41 C-38,37 -71,29 -64,2 Z"/>
+    </g>
+    <circle class="pin" cx="1010" cy="150" r="9" fill="#ffdb70"/>
+    <circle cx="1010" cy="150" r="4" fill="#121212"/>
+
+    <!-- text -->
+    <text x="80" y="98" class="handle">GEORAJESH</text>
+    <text x="78" y="166" class="name">Rajesh Dulal</text>
+    <rect x="80" y="186" width="96" height="4" rx="2" fill="url(#gold)"/>
+    <text x="80" y="236" class="tag t1">GIS Developer · Toronto, Canada</text>
+    <text x="80" y="236" class="tag t2">3D web maps · ArcGIS automation · LiDAR</text>
+    <text x="80" y="236" class="tag t3">Turning spatial data into tools people use</text>
+  </g>
+</svg>

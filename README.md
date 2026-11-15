@@ -1,24 +1,14 @@
-<div align="center">
+<a href="https://www.dulalrajesh.com.np/"><img src="banner.svg" alt="Rajesh Dulal (GeoRajesh), GIS Developer" width="100%" /></a>
 
-# Hi, I'm Rajesh Dulal (GeoRajesh) <img src="wave.gif" width="32px">
-
-<a href="https://www.dulalrajesh.com.np/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=2C7AC3&center=true&vCenter=true&width=600&lines=GIS+Developer;3D+Web+Maps+%E2%80%A2+ArcGIS+Automation;Turning+spatial+data+into+tools+people+use" alt="GIS Developer · 3D Web Maps · ArcGIS Automation" />
-</a>
-
-<p>
-  <a href="https://www.dulalrajesh.com.np/"><img src="https://img.shields.io/badge/Website-dulalrajesh.com.np-2C7AC3?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/georajesh/"><img src="https://img.shields.io/badge/LinkedIn-georajesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Toronto-Canada-555555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Toronto, Canada" />
+<p align="center">
+  <a href="https://www.dulalrajesh.com.np/"><img src="https://img.shields.io/badge/Website-dulalrajesh.com.np-202022?style=for-the-badge&logo=googlechrome&logoColor=ffdb70" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/georajesh/"><img src="https://img.shields.io/badge/LinkedIn-georajesh-202022?style=for-the-badge&logo=linkedin&logoColor=ffdb70" alt="LinkedIn" /></a>
+  <a href="https://buymeacoffee.com/georajesh"><img src="https://img.shields.io/badge/Buy_me_a-coffee-202022?style=for-the-badge&logo=buymeacoffee&logoColor=ffdb70" alt="Buy me a coffee" /></a>
 </p>
 
-</div>
+### Hi there <img src="wave.gif" width="28px">
 
----
-
-### 🌍 About me
-
-I'm a **GIS developer** who turns spatial data into tools people actually use, from Python scripts that save GIS teams days of manual work to interactive **3D web apps** for planning and decision-making. My background is in GIS applications and data analytics, and I like working where the two meet.
+I'm **Rajesh Dulal**, a **GIS developer** who turns spatial data into tools people actually use, from Python scripts that save GIS teams days of manual work to interactive **3D web apps** for planning and decision-making. My background is in GIS applications and data analytics, and I like working where the two meet.
 
 I'm especially drawn to **public sector, environmental and urban planning** work: projects that are technically sound and make a difference on the ground.
 
@@ -40,17 +30,17 @@ I'm especially drawn to **public sector, environmental and urban planning** work
       <h4>🗺️ <a href="https://github.com/georajesh/arcpy-mxd-to-aprx">arcpy-mxd-to-aprx</a></h4>
       Bulk-convert ArcMap <code>.mxd</code> documents to ArcGIS Pro <code>.aprx</code> projects and repair broken data sources.
       <br /><br />
-      <img src="https://img.shields.io/badge/ArcPy-2C7AC3?style=flat-square" alt="ArcPy" />
-      <img src="https://img.shields.io/badge/ArcGIS_Pro_3.x-2C7AC3?style=flat-square" alt="ArcGIS Pro 3.x" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/ArcPy-2b2b2c?style=flat-square" alt="ArcPy" />
+      <img src="https://img.shields.io/badge/ArcGIS_Pro_3.x-2b2b2c?style=flat-square" alt="ArcGIS Pro 3.x" />
+      <img src="https://img.shields.io/badge/Python-2b2b2c?style=flat-square&logo=python&logoColor=ffdb70" alt="Python" />
     </td>
     <td width="50%" valign="top">
       <h4>🏷️ <a href="https://github.com/georajesh/agol-bulk-metadata-update">agol-bulk-metadata-update</a></h4>
       Bulk-update ArcGIS Online item metadata (summary, tags, description, credits, terms of use) from a CSV.
       <br /><br />
-      <img src="https://img.shields.io/badge/ArcGIS_Online-2C7AC3?style=flat-square" alt="ArcGIS Online" />
-      <img src="https://img.shields.io/badge/ArcGIS_API_for_Python-2C7AC3?style=flat-square" alt="ArcGIS API for Python" />
-      <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+      <img src="https://img.shields.io/badge/ArcGIS_Online-2b2b2c?style=flat-square" alt="ArcGIS Online" />
+      <img src="https://img.shields.io/badge/ArcGIS_API_for_Python-2b2b2c?style=flat-square" alt="ArcGIS API for Python" />
+      <img src="https://img.shields.io/badge/pandas-2b2b2c?style=flat-square&logo=pandas&logoColor=ffdb70" alt="pandas" />
     </td>
   </tr>
 </table>
@@ -61,32 +51,32 @@ I write about these workflows and the lessons behind them on [LinkedIn](https://
 
 **GIS**
 <p>
-  <img src="https://img.shields.io/badge/ArcGIS_Pro-2C7AC3?style=flat-square&logoColor=white" alt="ArcGIS Pro" />
-  <img src="https://img.shields.io/badge/ArcPy-2C7AC3?style=flat-square" alt="ArcPy" />
-  <img src="https://img.shields.io/badge/ArcGIS_Online-2C7AC3?style=flat-square" alt="ArcGIS Online" />
-  <img src="https://img.shields.io/badge/ArcGIS_Maps_SDK_for_JS-2C7AC3?style=flat-square" alt="ArcGIS Maps SDK for JavaScript" />
-  <img src="https://img.shields.io/badge/ArcGIS_API_for_Python-2C7AC3?style=flat-square" alt="ArcGIS API for Python" />
-  <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" />
-  <img src="https://img.shields.io/badge/FME-E36F1E?style=flat-square" alt="FME" />
+  <img src="https://img.shields.io/badge/ArcGIS_Pro-202022?style=flat-square" alt="ArcGIS Pro" />
+  <img src="https://img.shields.io/badge/ArcPy-202022?style=flat-square" alt="ArcPy" />
+  <img src="https://img.shields.io/badge/ArcGIS_Online-202022?style=flat-square" alt="ArcGIS Online" />
+  <img src="https://img.shields.io/badge/ArcGIS_Maps_SDK_for_JS-202022?style=flat-square" alt="ArcGIS Maps SDK for JavaScript" />
+  <img src="https://img.shields.io/badge/ArcGIS_API_for_Python-202022?style=flat-square" alt="ArcGIS API for Python" />
+  <img src="https://img.shields.io/badge/QGIS-202022?style=flat-square&logo=qgis&logoColor=ffdb70" alt="QGIS" />
+  <img src="https://img.shields.io/badge/FME-202022?style=flat-square" alt="FME" />
 </p>
 
 **Code and data**
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-202022?style=flat-square&logo=python&logoColor=ffdb70" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-202022?style=flat-square&logo=javascript&logoColor=ffdb70" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-202022?style=flat-square&logo=react&logoColor=ffdb70" alt="React" />
+  <img src="https://img.shields.io/badge/PostgreSQL-202022?style=flat-square&logo=postgresql&logoColor=ffdb70" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL-202022?style=flat-square" alt="SQL" />
+  <img src="https://img.shields.io/badge/Supabase-202022?style=flat-square&logo=supabase&logoColor=ffdb70" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Docker-202022?style=flat-square&logo=docker&logoColor=ffdb70" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-202022?style=flat-square&logo=git&logoColor=ffdb70" alt="Git" />
 </p>
 
 **Analytics**
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logoColor=white" alt="Excel" />
+  <img src="https://img.shields.io/badge/Power_BI-202022?style=flat-square" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-202022?style=flat-square" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Excel-202022?style=flat-square" alt="Excel" />
 </p>
 
 ### 🔭 Currently exploring
@@ -99,10 +89,6 @@ Outside of GIS, I'm usually behind a camera. Photography is my favourite way to 
 
 ---
 
-<div align="center">
-
-If my tools have saved you some time, consider buying me a coffee/tea ☕
-
-<a href="https://buymeacoffee.com/georajesh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="160" /></a>
-
-</div>
+<p align="center">
+  <sub>If my tools have saved you some time, consider <a href="https://buymeacoffee.com/georajesh">buying me a coffee/tea</a> ☕</sub>
+</p>
