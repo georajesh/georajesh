@@ -22,7 +22,7 @@ I'm especially drawn to **public sector, environmental and urban planning** work
   <a href="https://github.com/georajesh/agol-bulk-metadata-update"><img src="cards/agol-bulk-metadata-update.svg" width="49%" alt="agol-bulk-metadata-update: Bulk-update ArcGIS Online item metadata from a CSV" /></a>
 </p>
 
-<a href="https://www.linkedin.com/in/georajesh/"><img src="cards/linkedin-link.svg" height="48" alt="I write about these workflows and the lessons behind them on LinkedIn" /></a>
+I write about these workflows and the lessons behind them on [LinkedIn](https://www.linkedin.com/in/georajesh/).
 
 ### 💻 Tech stack
 
