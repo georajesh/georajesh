@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://www.dulalrajesh.com.np/"><img src="https://img.shields.io/badge/Website-dulalrajesh.com.np-202022?style=for-the-badge&logo=googlechrome&logoColor=ffdb70" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/georajesh/"><img src="https://img.shields.io/badge/LinkedIn-georajesh-202022?style=for-the-badge&logo=linkedin&logoColor=ffdb70" alt="LinkedIn" /></a>
-  <a href="https://buymeacoffee.com/georajesh"><img src="https://img.shields.io/badge/Buy_me_a-coffee-202022?style=for-the-badge&logo=buymeacoffee&logoColor=ffdb70" alt="Buy me a coffee" /></a>
 </p>
 
 ### Hi there <img src="wave.gif" width="28px">
@@ -89,6 +88,10 @@ Outside of GIS, I'm usually behind a camera. Photography is my favourite way to 
 
 ---
 
-<p align="center">
-  <sub>If my tools have saved you some time, consider <a href="https://buymeacoffee.com/georajesh">buying me a coffee/tea</a> ☕</sub>
-</p>
+<div align="center">
+
+If my tools have saved you some time, consider buying me a coffee/tea ☕
+
+<a href="https://buymeacoffee.com/georajesh"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="180" /></a>
+
+</div>
