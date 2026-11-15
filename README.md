@@ -1,4 +1,4 @@
-<a href="https://www.dulalrajesh.com.np/"><img src="banner.svg" alt="Rajesh Dulal (GeoRajesh), GIS Developer" width="100%" /></a>
+<a href="https://www.dulalrajesh.com.np/"><img src="banner.svg" alt="Rajesh Dulal (GeoRajesh), Engineer, GIS Specialist and Data Analyst" width="100%" /></a>
 
 <p align="center">
   <a href="https://www.dulalrajesh.com.np/"><img src="https://img.shields.io/badge/Website-dulalrajesh.com.np-202022?style=for-the-badge&logo=googlechrome&logoColor=ffdb70" alt="Website" /></a>
@@ -7,13 +7,13 @@
 
 ### Hi there <img src="wave.gif" width="28px">
 
-I'm **Rajesh Dulal**, a **GIS developer** who turns spatial data into tools people actually use, from Python scripts that save GIS teams days of manual work to interactive **3D web apps** for planning and decision-making. My background is in GIS applications and data analytics, and I like working where the two meet.
+I'm **Rajesh Dulal**, an **Engineer, GIS Specialist and Data Analyst** with solid experience in Esri tools, spatial analytics, Python scripting and statistical modeling. I specialize in **3D building solutions and digital twins**, turning survey and LiDAR data into models a team can measure, query and plan against.
 
-I'm especially drawn to **public sector, environmental and urban planning** work: projects that are technically sound and make a difference on the ground.
+I also apply data science to build dashboards, automate geospatial processes and uncover actionable insights, working in FME, SQL and Power BI. I'm passionate about using data to support **sustainability and smart decision-making**, especially in public sector, environmental and urban planning work.
 
 ### 🛠️ What I work on
 
-<img src="cards/work.svg" width="100%" alt="3D web GIS · GIS automation · LiDAR and 3D data · Disaster and environmental mapping · Data and dashboards" />
+<img src="cards/work.svg" width="100%" alt="3D buildings and digital twins · GIS automation · Web apps · Disaster and environmental mapping · Data and dashboards" />
 
 ### 📦 Open-source tools
 

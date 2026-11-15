@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="What I work on: 3D web GIS, GIS automation, LiDAR and 3D data, disaster and environmental mapping, data and dashboards">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="What I work on: 3D buildings and digital twins, GIS automation, web apps, disaster and environmental mapping, data and dashboards">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#2b2b2c"/>
@@ -15,18 +15,18 @@
 
   <g transform="translate(48 0)">
     <circle cx="16" cy="60" r="16" fill="#ffdb70"/><text x="16" y="65" class="num" text-anchor="middle">01</text>
-    <text x="52" y="67" class="title">3D web GIS</text>
-    <text x="440" y="67" class="desc">Interactive 3D city and planning apps · ArcGIS Maps SDK for JS, React</text>
+    <text x="52" y="67" class="title">3D buildings and digital twins</text>
+    <text x="440" y="67" class="desc">Survey and LiDAR data into models teams can measure and query</text>
     <line x1="0" y1="100" x2="1104" y2="100" class="sep"/>
 
     <circle cx="16" cy="135" r="16" fill="#ffdb70"/><text x="16" y="140" class="num" text-anchor="middle">02</text>
     <text x="52" y="142" class="title">GIS automation</text>
-    <text x="440" y="142" class="desc">ArcPy and ArcGIS Pro toolboxes, bulk migrations, ArcGIS Online admin</text>
+    <text x="440" y="142" class="desc">ArcPy and FME workflows, ArcGIS Pro toolboxes, ArcGIS Online admin</text>
     <line x1="0" y1="175" x2="1104" y2="175" class="sep"/>
 
     <circle cx="16" cy="210" r="16" fill="#ffdb70"/><text x="16" y="215" class="num" text-anchor="middle">03</text>
-    <text x="52" y="217" class="title">LiDAR and 3D data</text>
-    <text x="440" y="217" class="desc">Point clouds to building footprints and LOD2 models</text>
+    <text x="52" y="217" class="title">Web apps</text>
+    <text x="440" y="217" class="desc">Interactive 3D web apps with the ArcGIS Maps SDK for JS and React</text>
     <line x1="0" y1="250" x2="1104" y2="250" class="sep"/>
 
     <circle cx="16" cy="285" r="16" fill="#ffdb70"/><text x="16" y="290" class="num" text-anchor="middle">04</text>
