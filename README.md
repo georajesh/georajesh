@@ -1,7 +1,7 @@
-<a href="https://www.dulalrajesh.com.np/"><img src="banner.svg" alt="Rajesh Dulal (GeoRajesh), Engineer, GIS Specialist and Data Analyst" width="100%" /></a>
+<a href="https://dulalrajesh.com.np/"><img src="banner.svg" alt="Rajesh Dulal (GeoRajesh), Engineer, GIS Specialist and Data Analyst" width="100%" /></a>
 
 <p align="center">
-  <a href="https://www.dulalrajesh.com.np/"><img src="https://img.shields.io/badge/Website-dulalrajesh.com.np-202022?style=for-the-badge&logo=googlechrome&logoColor=ffdb70" alt="Website" /></a>
+  <a href="https://dulalrajesh.com.np/"><img src="https://img.shields.io/badge/Website-dulalrajesh.com.np-202022?style=for-the-badge&logo=googlechrome&logoColor=ffdb70" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/georajesh/"><img src="https://img.shields.io/badge/LinkedIn-georajesh-202022?style=for-the-badge&logo=linkedin&logoColor=ffdb70" alt="LinkedIn" /></a>
 </p>
 
