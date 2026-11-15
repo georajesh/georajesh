@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="200" viewBox="0 0 590 200" role="img" aria-label="agol-bulk-metadata-update: Bulk-update ArcGIS Online item metadata from a CSV">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b2b2c"/>
+      <stop offset="1" stop-color="#1a1a1b"/>
+    </linearGradient>
+    <style>
+      .title { font: 600 24px 'Poppins', 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffdb70; }
+      .desc  { font: 400 17px 'Poppins', 'Segoe UI', Helvetica, Arial, sans-serif; fill: #d6d6d6; }
+      .pill  { font: 500 13px 'Poppins', 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffdb70; }
+      .label { font: 600 12px 'Poppins', 'Segoe UI', Helvetica, Arial, sans-serif; fill: #8a8a8a; letter-spacing: 2px; }
+    </style>
+  </defs>
+  <rect x="1" y="1" width="588" height="198" rx="18" fill="url(#bg)" stroke="#383838" stroke-width="2"/>
+  <text x="32" y="40" class="label">OPEN-SOURCE TOOL</text>
+  <text x="32" y="76" class="title">agol-bulk-metadata-update</text>
+  <text x="32" y="110" class="desc">Bulk-update ArcGIS Online item metadata (summary,</text>
+  <text x="32" y="134" class="desc">tags, description, credits, terms of use) from a CSV.</text>
+  <g transform="translate(32 152)">
+    <rect width="122" height="28" rx="14" fill="none" stroke="#ceb15a"/><text x="61" y="19" class="pill" text-anchor="middle">ArcGIS Online</text>
+    <rect x="132" width="172" height="28" rx="14" fill="none" stroke="#ceb15a"/><text x="218" y="19" class="pill" text-anchor="middle">ArcGIS API for Python</text>
+    <rect x="314" width="72" height="28" rx="14" fill="none" stroke="#ceb15a"/><text x="350" y="19" class="pill" text-anchor="middle">pandas</text>
+  </g>
+  <text x="556" y="178" class="pill" text-anchor="end">View repo →</text>
+</svg>

@@ -13,36 +13,14 @@ I'm especially drawn to **public sector, environmental and urban planning** work
 
 ### 🛠️ What I work on
 
-| | |
-|---|---|
-| 🏙️ **3D web GIS** | Interactive 3D city and planning apps with the ArcGIS Maps SDK for JavaScript and React |
-| ⚙️ **GIS automation** | ArcPy and ArcGIS Pro toolboxes, bulk migrations, ArcGIS Online administration |
-| 🛰️ **LiDAR and 3D data** | Point clouds to building footprints and LOD2 models |
-| 🌊 **Disaster and environmental mapping** | Damage assessment, hazard overlays and impact reporting |
-| 📊 **Data and dashboards** | SQL, Power BI, Tableau and ArcGIS Dashboards for decision-ready reporting |
+<img src="cards/work.svg" width="100%" alt="3D web GIS · GIS automation · LiDAR and 3D data · Disaster and environmental mapping · Data and dashboards" />
 
 ### 📦 Open-source tools
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🗺️ <a href="https://github.com/georajesh/arcpy-mxd-to-aprx">arcpy-mxd-to-aprx</a></h4>
-      Bulk-convert ArcMap <code>.mxd</code> documents to ArcGIS Pro <code>.aprx</code> projects and repair broken data sources.
-      <br /><br />
-      <img src="https://img.shields.io/badge/ArcPy-2b2b2c?style=flat-square" alt="ArcPy" />
-      <img src="https://img.shields.io/badge/ArcGIS_Pro_3.x-2b2b2c?style=flat-square" alt="ArcGIS Pro 3.x" />
-      <img src="https://img.shields.io/badge/Python-2b2b2c?style=flat-square&logo=python&logoColor=ffdb70" alt="Python" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🏷️ <a href="https://github.com/georajesh/agol-bulk-metadata-update">agol-bulk-metadata-update</a></h4>
-      Bulk-update ArcGIS Online item metadata (summary, tags, description, credits, terms of use) from a CSV.
-      <br /><br />
-      <img src="https://img.shields.io/badge/ArcGIS_Online-2b2b2c?style=flat-square" alt="ArcGIS Online" />
-      <img src="https://img.shields.io/badge/ArcGIS_API_for_Python-2b2b2c?style=flat-square" alt="ArcGIS API for Python" />
-      <img src="https://img.shields.io/badge/pandas-2b2b2c?style=flat-square&logo=pandas&logoColor=ffdb70" alt="pandas" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/georajesh/arcpy-mxd-to-aprx"><img src="cards/arcpy-mxd-to-aprx.svg" width="49%" alt="arcpy-mxd-to-aprx: Bulk-convert ArcMap .mxd documents to ArcGIS Pro .aprx projects" /></a>
+  <a href="https://github.com/georajesh/agol-bulk-metadata-update"><img src="cards/agol-bulk-metadata-update.svg" width="49%" alt="agol-bulk-metadata-update: Bulk-update ArcGIS Online item metadata from a CSV" /></a>
+</p>
 
 I write about these workflows and the lessons behind them on [LinkedIn](https://www.linkedin.com/in/georajesh/).
 
