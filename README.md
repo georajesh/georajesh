@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-georajesh-blue?logo=linkedin)](https://www.linkedin.com/in/georajesh/)
 ![Location](https://img.shields.io/badge/Based_in-Toronto,_Canada-lightgrey)
 
-# Hi, I'm GeoRajesh <img src="wave.gif" width="30px">
+# Hi, I'm Rajesh Dulal (GeoRajesh) <img src="wave.gif" width="30px">
 
 **GIS developer building 3D web maps and ArcGIS automation tools.**
 
