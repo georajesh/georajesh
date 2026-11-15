@@ -24,35 +24,7 @@ I'm especially drawn to **public sector, environmental and urban planning** work
 
 ### 💻 Tech stack
 
-**GIS**
-<p>
-  <img src="https://img.shields.io/badge/ArcGIS_Pro-202022?style=flat-square" alt="ArcGIS Pro" />
-  <img src="https://img.shields.io/badge/ArcPy-202022?style=flat-square" alt="ArcPy" />
-  <img src="https://img.shields.io/badge/ArcGIS_Online-202022?style=flat-square" alt="ArcGIS Online" />
-  <img src="https://img.shields.io/badge/ArcGIS_Maps_SDK_for_JS-202022?style=flat-square" alt="ArcGIS Maps SDK for JavaScript" />
-  <img src="https://img.shields.io/badge/ArcGIS_API_for_Python-202022?style=flat-square" alt="ArcGIS API for Python" />
-  <img src="https://img.shields.io/badge/QGIS-202022?style=flat-square&logo=qgis&logoColor=ffdb70" alt="QGIS" />
-  <img src="https://img.shields.io/badge/FME-202022?style=flat-square" alt="FME" />
-</p>
-
-**Code and data**
-<p>
-  <img src="https://img.shields.io/badge/Python-202022?style=flat-square&logo=python&logoColor=ffdb70" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-202022?style=flat-square&logo=javascript&logoColor=ffdb70" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-202022?style=flat-square&logo=react&logoColor=ffdb70" alt="React" />
-  <img src="https://img.shields.io/badge/PostgreSQL-202022?style=flat-square&logo=postgresql&logoColor=ffdb70" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL-202022?style=flat-square" alt="SQL" />
-  <img src="https://img.shields.io/badge/Supabase-202022?style=flat-square&logo=supabase&logoColor=ffdb70" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Docker-202022?style=flat-square&logo=docker&logoColor=ffdb70" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-202022?style=flat-square&logo=git&logoColor=ffdb70" alt="Git" />
-</p>
-
-**Analytics**
-<p>
-  <img src="https://img.shields.io/badge/Power_BI-202022?style=flat-square" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-202022?style=flat-square" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Excel-202022?style=flat-square" alt="Excel" />
-</p>
+<img src="cards/stack.svg" width="100%" alt="Tech stack. GIS: ArcGIS Pro, ArcPy, ArcGIS Online, ArcGIS Maps SDK for JS, ArcGIS API for Python, ArcGIS Dashboards, QGIS, FME. Code and data: Python, JavaScript, React, Vite, SQL, PostgreSQL, Supabase, Docker, Git. Analytics: Power BI, Tableau, Excel, pandas." />
 
 ### 🔭 Currently exploring
 
