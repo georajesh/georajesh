@@ -1,32 +1,60 @@
+[![Website](https://img.shields.io/badge/Website-GeoRajesh-blue)](https://www.dulalrajesh.com.np/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-georajesh-blue?logo=linkedin)](https://www.linkedin.com/in/georajesh/)
+![Location](https://img.shields.io/badge/Based_in-Toronto,_Canada-lightgrey)
 
-[![Website](https://img.shields.io/badge/Website%20-%20GeoRajesh%20-%20blue)](http://dulalrajesh.com.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20georajesh%20-%20blue)](https://www.linkedin.com/in/georajesh/)
+# Hi, I'm GeoRajesh <img src="wave.gif" width="30px">
 
-<br>
+**GIS developer building 3D web maps and ArcGIS automation tools.**
 
-# Hi there <img src="wave.gif" width="30px">
+I turn spatial data into tools people actually use, from Python scripts that save GIS teams days of manual work to interactive 3D web apps for planning and decision-making. My background is in GIS applications and data analytics, and I like working where the two meet.
 
-My name is <b>Rajesh Dulal</b>, a data and GIS enthusiast passionate about using analytics and geospatial technology to solve real-world problems. With a background in Data Analytics and GIS Applications, I combine technical skills in Python, SQL, Power BI, Excel, and geospatial tools like ArcGIS Pro, QGIS, and FME to build solutions that drive insights and support decision-making. I enjoy working across disciplines, whether it’s transforming raw datasets into visual dashboards or automating spatial workflows for greater efficiency.
+### 🛠️ What I work on
 
-I’m especially interested in public sector, environmental, and urban planning projects, and I strive to create work that’s both technically sound and socially impactful.
+- **3D web GIS:** interactive 3D city and planning apps built with the ArcGIS Maps SDK for JavaScript and React
+- **GIS automation:** ArcPy and ArcGIS Pro toolboxes, bulk migrations, and ArcGIS Online administration with the ArcGIS API for Python
+- **LiDAR and 3D data:** processing point clouds into building footprints and LOD2 models
+- **Disaster and environmental mapping:** damage assessment, hazard overlays and impact reporting
+- **Data and dashboards:** SQL, Power BI, Tableau and ArcGIS Dashboards for clear, decision-ready reporting
 
-💻 My interests lie within the field of GeoAI, Machine Learning & Spatial Data Science.
+I'm especially drawn to public sector, environmental and urban planning work: projects that are technically sound and make a difference on the ground.
 
-🎞️ Outside my academic and professional pursuits, I am passionate about photography.
+### 📦 Open-source tools
 
-if you like what i do, maybe consider buying me a coffee/tea 👉👈
+| Tool | What it does |
+|---|---|
+| [**arcpy-mxd-to-aprx**](https://github.com/georajesh/arcpy-mxd-to-aprx) | Bulk-convert ArcMap `.mxd` documents to ArcGIS Pro `.aprx` projects and repair broken data sources |
+| [**agol-bulk-metadata-update**](https://github.com/georajesh/agol-bulk-metadata-update) | Bulk-update ArcGIS Online item metadata (summary, tags, description, credits, terms of use) from a CSV |
 
-<a href="https://buymeacoffee.com/georajesh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+I write about these workflows and the lessons behind them on [LinkedIn](https://www.linkedin.com/in/georajesh/).
 
+### 💻 Tech I use
 
-## Skills 💪🏻
-<span align="left">
-<img src="Esri_Suite.png" width="80" height="50" alt="esri Suits" />
-<img src="QGIS.png" width="80" height="45" alt="QGIS" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" alt="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
-<img src="Tableau.png" width="120" height="30" alt="Tableau" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" />
-</span>
+<p align="left">
+  <img src="Esri_Suite.png" height="45" alt="Esri ArcGIS Suite" />
+  <img src="QGIS.png" height="45" alt="QGIS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="Tableau.png" height="30" alt="Tableau" />
+</p>
 
-              
+**GIS:** ArcGIS Pro · ArcPy · ArcGIS Online · ArcGIS Maps SDK for JavaScript · ArcGIS API for Python · QGIS · FME
+**Data:** Python · SQL · PostgreSQL · Power BI · Tableau · Excel
+**Web:** JavaScript · React · Vite · Supabase
+
+### 🔭 Currently exploring
+
+GeoAI, machine learning and spatial data science, and using AI agents to automate GIS workflows.
+
+### 🎞️ Off the map
+
+Outside of GIS, I'm usually behind a camera. Photography is my favourite way to see places differently.
+
+---
+
+If my tools have saved you some time, consider buying me a coffee/tea ☕
+
+<a href="https://buymeacoffee.com/georajesh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
